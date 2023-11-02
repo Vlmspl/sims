@@ -64,6 +64,7 @@ job_list = {
     "Rust developer": {"salary": 70, "gladness_less": 15},
 }
 
+
 brands_of_car = {
     "BMW": {"fuel": 100, "strength": 100, "consumption": 6},
     "Lada": {"fuel": 50, "strength": 40, "consumption": 10},

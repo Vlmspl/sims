@@ -24,7 +24,7 @@ class Human:
               f" \nAuto Status: {self.auto_status}%\n\n")
 
 
-human = Human("Timur")
+human = Human("Nick")
 human.output_info()
 human.chill()
 human.output_info()
